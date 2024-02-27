@@ -2,6 +2,7 @@ Olá! Este reposiório consiste em um pequeno projeto que elaborei durante o seg
 
 Programado em C, consiste em uma aplicação de console criada com o intuito de auxiliar a bilheteria de museu em suas atividades cotidianas (tema escolhido pela universidade). 
 
+![image](https://github.com/enzopascoate/MMS-museum-management-system/assets/137375620/cb9e2e2a-4e42-4636-8598-9bf79b547e76)
 
 
 Dentre as capacidades deste software, estão: 
