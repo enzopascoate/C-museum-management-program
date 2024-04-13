@@ -1,6 +1,7 @@
 Olá! Este reposiório consiste em um pequeno projeto que elaborei durante o segundo semestre de minha graduação no curso de Análise de Sistemas.
 
 Programado em C, consiste em uma aplicação de console criada com o intuito de auxiliar a bilheteria de museu em suas atividades cotidianas (tema escolhido pela universidade). 
+A aplicação se trata de um CRUD (Create, Read, Update, Destroy) simples.
 
 
 ![image](https://github.com/enzopascoate/MMS-museum-management-system/assets/137375620/d824ebb6-73a6-442b-9bde-0beca1b623a4)
